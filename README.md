@@ -6,5 +6,5 @@ In particular, we refer to: [STalign: Alignment of spatial transcriptomics data 
 You can find the relative GitHub repository at [STalign](https://github.com/JEFworks-Lab/STalign?tab=readme-ov-file#overview).
 
 ## Installation & Import
-To start using the notebooks in the different folders you must firstly install STalign with: `codice inline`
-'''pip install --upgrade "git+https://github.com/JEFworks-Lab/STalign.git"'
+To start using the notebooks in the different folders you must firstly install STalign with: 
+`pip install --upgrade "git+https://github.com/JEFworks-Lab/STalign.git`
