@@ -15,3 +15,6 @@ Find three different folders:
 - Alignment_and_annotation: these notebooks are specialized in alignment and automatic annotation of mouse (both adult and developing one) brain slices, using Allen Atlas data;
 - Genes_Lipids: this notebook is specialized in alignment of two images with genes and lipids expression, deriving from HybISS and MALDI tecnniques;
 - STalign_Lipids: this notebook is specialized in alignment of a lipid expression image with the corresponding Allen one.
+
+## Usage
+In order to correctly obtain the results showed in the notebooks, you may modify your local STalign.py script as the one presented here above.
