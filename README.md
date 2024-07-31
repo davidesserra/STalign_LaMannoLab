@@ -1,7 +1,7 @@
 # STalign_LaMannoLab
 A repository with notebooks adapted to Gioele La Manno's Lab for alignment of adult and developing mouse brain slices, genes expression and lipids expression data, depending on the purpose.
 
-[GitHub_img.pdf](https://github.com/user-attachments/files/16445229/GitHub_img.pdf)
+![GitHub_img.pdf](https://github.com/user-attachments/files/16445229/GitHub_img.pdf)
 
 
 This repository is based on the use of STalign, a tool that aligns spatial transcriptomics (ST) tissue sections to each other and to 3D atlases like the Allen Brain Atlas using algorithms that build upon diffeomorphic metric mapping.
